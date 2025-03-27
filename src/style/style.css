@@ -129,7 +129,6 @@
 
  .cards-container article{
      width: 299px;
-     height: 260px;
      box-shadow: 0px 2px 4px rgba(171, 190, 209, 0.2);
      padding: 24px 16px;
      text-align: center;
@@ -162,4 +161,34 @@
     line-height: 1.6;
  }
  
+ /* .pixel-grade {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+ }
+
+
+ } */
+
  /* ------------ FIM MANAGE SYSTEM ------------ */
+
+.pixel-grade{
+    display: flex;
+    justify-content: center;
+    height: 52px;
+    gap: 49px;
+    margin-top: 42px;
+}
+
+.pixel-grade-content{
+    width: 661px;
+}
+
+.pixel-grade-content h2{
+    width: 526px;
+}
+
+.pixel-grade-content p{
+    margin-top: 16px;
+}
