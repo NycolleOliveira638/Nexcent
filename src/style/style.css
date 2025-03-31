@@ -238,3 +238,22 @@ h1{
 }
 
 /* ------------ FIM Helping Local ------------ */
+
+
+.design-local{
+    display: flex;
+    justify-content: center;
+    gap: 49.47px;
+    align-items: center;
+    padding: 48px 0px;
+}
+
+.design-local h2{
+    width: 680px;
+}
+
+.design-local p{
+    width: 680px;
+    line-height: 1.5;
+}
+ 
