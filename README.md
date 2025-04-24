@@ -97,7 +97,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina um editor de
 Nycolle De Oliveira Pereira</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nycolleo638@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nycolleo638@gmail.com)](mailto:nycolleo638@gmail.com)
 
 ---
 
