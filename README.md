@@ -108,5 +108,5 @@ Nycolle De Oliveira Pereira</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Nycolle De Oliveira [Entre em contato!](https://br.linkedin.com/in/NycolleOliveiraz-)
 
